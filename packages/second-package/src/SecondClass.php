@@ -6,4 +6,5 @@ namespace YourMonorepo\SecondPackage;
 
 final class SecondClass
 {
+  const OMG = 'omg';
 }
