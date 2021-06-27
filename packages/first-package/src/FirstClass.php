@@ -6,4 +6,5 @@ namespace YourMonorepo\FirstPackage;
 
 final class FirstClass
 {
+  const TEST = 'test';
 }
