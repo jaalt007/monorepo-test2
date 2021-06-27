@@ -21,9 +21,9 @@ jobs:
                 # define package to repository map
                 package:
                     -   local_path: 'first-package'
-                        split_repository: 'monorepo-test-readonly
+                        split_repository: 'monorepo-test-readonly'
                     -   local_path: 'second-package'
-                        split_repository: 'monorepo-readonly2
+                        split_repository: 'monorepo-readonly-2'
 
         steps:
             -   uses: actions/checkout@v2
